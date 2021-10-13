@@ -1,7 +1,0 @@
-requests>=2.19.1
-BeautifulSoup4>=4.6.3
-img2pdf>=0.3.1
-md2pdf>=0.4
-pdfkit>=0.6.1
-Markdown>=3.3.4
-mdpdf>=0.0.17

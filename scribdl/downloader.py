@@ -110,7 +110,7 @@ class Downloader:
 
         content_path = document.download()
         pdf_path = "{}.pdf".format(document.sanitized_title)
-        return ConvertToPDF(content_path, pdf_path)
+        # return ConvertToPDF(content_path, pdf_path)
 
     def _download_audiobook(self):
         """
