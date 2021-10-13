@@ -29,4 +29,4 @@ Make sure you python Pillow is up to date > 6
 
 
 
-	$ pip install mdf
+	$ pip install mdpdf
