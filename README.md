@@ -23,3 +23,10 @@ Make sure you python Pillow is up to date > 6
 	$ python3 -m pip install --upgrade pip
 	$ python3 -m pip install --upgrade Pillow
 	$ pip install scribd-downloader
+
+
+**Install mdpdf
+
+
+
+	$ pip install mdf
