@@ -1,4 +1,4 @@
-Thanks Phoenix124 for [https://github.com/Phoenix124/scribd-downloader](scribdl) and BlueHatbRit for [https://github.com/BlueHatbRit/mdpdf](mdpdf)
+Thanks Phoenix124 for [scribdl](https://github.com/Phoenix124/scribd-downloader) and BlueHatbRit for [mdpdf](https://github.com/BlueHatbRit/mdpdf)
 
 ------------
 Installation
