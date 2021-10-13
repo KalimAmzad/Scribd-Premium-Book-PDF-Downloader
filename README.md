@@ -9,7 +9,7 @@ Then run these commands:
 
 **macOS prerequisites for md2pdf / cairo
 
-::
+
 
 	$ brew install cairo
 	$ brew install pango
@@ -18,7 +18,7 @@ Then run these commands:
 
 Make sure you python Pillow is up to date > 6
 
-::
+
 
 	$ python3 -m pip install --upgrade pip
 	$ python3 -m pip install --upgrade Pillow
