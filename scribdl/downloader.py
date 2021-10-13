@@ -146,6 +146,6 @@ class Downloader:
         """
         Checks whether the passed URL points to a Scribd audiobook.
         """
-        print("Document Downloading") if "document" in self.url
+        # print("Document Downloading") if "document" in self.url
 
         return "document" in self.url
